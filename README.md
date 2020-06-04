@@ -24,3 +24,7 @@ Otra de las formas, la más compleja de comprender al principio, es una serie de
 ```python
 (lambda a:lambda v:a(a,v))(lambda s,x:1 if x==0 else x*s(s,x-1))(int(input()))
 ```
+
+Nombre  | Código
+------------- | -------------
+Juan Felipe Herrera Poveda | 20181020077
